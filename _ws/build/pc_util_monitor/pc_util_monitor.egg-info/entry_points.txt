@@ -1,0 +1,3 @@
+[console_scripts]
+pc_util_monitor = pc_util_monitor.node:main
+

@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating pc_util_monitor.egg-info
+writing pc_util_monitor.egg-info/PKG-INFO
+writing dependency_links to pc_util_monitor.egg-info/dependency_links.txt
+writing entry points to pc_util_monitor.egg-info/entry_points.txt
+writing requirements to pc_util_monitor.egg-info/requires.txt
+writing top-level names to pc_util_monitor.egg-info/top_level.txt
+writing manifest file 'pc_util_monitor.egg-info/SOURCES.txt'
+reading manifest file 'pc_util_monitor.egg-info/SOURCES.txt'
+writing manifest file 'pc_util_monitor.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/lib/python3.10/site-packages/pc-util-monitor.egg-link (link to .)
+Installing pc_util_monitor script to /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/lib/pc_util_monitor
+
+Installed /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor
+running symlink_data
+creating /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/share/ament_index
+creating /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/share/ament_index/resource_index
+creating /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/share/ament_index/resource_index/packages
+symbolically linking /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/resource/pc_util_monitor -> /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/share/ament_index/resource_index/packages
+symbolically linking /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/package.xml -> /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/share/pc_util_monitor
