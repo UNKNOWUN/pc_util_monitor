@@ -13,8 +13,8 @@ test/test_pep257.py [32m.[0m[33m                                             
 [33m=============================== warnings summary ===============================[0m
 test/test_flake8.py::test_flake8
 test/test_flake8.py::test_flake8
+- generated xml file: /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/pytest.xml -
   Warning: SelectableGroups dict interface is deprecated. Use select.
 
 -- Docs: https://docs.pytest.org/en/stable/warnings.html
-- generated xml file: /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/pytest.xml -
-[33m=================== [32m2 passed[0m, [33m[1m1 skipped[0m, [33m[1m2 warnings[0m[33m in 0.17s[0m[33m ===================[0m
+[33m=================== [32m2 passed[0m, [33m[1m1 skipped[0m, [33m[1m2 warnings[0m[33m in 0.20s[0m[33m ===================[0m

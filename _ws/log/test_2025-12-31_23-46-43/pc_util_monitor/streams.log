@@ -1,0 +1,22 @@
+[0.309s] Invoking command in '/home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/src/pc_util_monitor': PYTEST_ADDOPTS=--tb=short --junit-xml=/home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/pytest.xml --junit-prefix=pc_util_monitor -o cache_dir=/home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/.pytest_cache PYTHONDONTWRITEBYTECODE=1 /usr/bin/python3 -m pytest
+[0.612s] [1m============================= test session starts ==============================[0m
+[0.612s] platform linux -- Python 3.10.12, pytest-6.2.5, py-1.10.0, pluggy-0.13.0
+[0.615s] cachedir: /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/.pytest_cache
+[0.615s] rootdir: /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/src/pc_util_monitor
+[0.615s] plugins: ament-lint-0.12.14, ament-flake8-0.12.14, ament-copyright-0.12.14, ament-xmllint-0.12.14, launch-testing-1.0.13, launch-testing-ros-0.19.13, ament-pep257-0.12.14, cov-3.0.0, colcon-core-0.20.1
+[0.690s] [1mcollecting ... [0m[1m
+[0.690s] collected 3 items                                                              [0m
+[0.690s] 
+[0.693s] test/test_copyright.py [33ms[0m[32m                                                 [ 33%][0m
+[0.791s] test/test_flake8.py [32m.[0m[33m                                                    [ 66%][0m
+[0.810s] test/test_pep257.py [32m.[0m[33m                                                    [100%][0m
+[0.810s] 
+[0.810s] [33m=============================== warnings summary ===============================[0m
+[0.810s] test/test_flake8.py::test_flake8
+[0.810s] test/test_flake8.py::test_flake8
+[0.811s] - generated xml file: /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/pytest.xml -
+[0.811s]   Warning: SelectableGroups dict interface is deprecated. Use select.
+[0.811s] 
+[0.811s] -- Docs: https://docs.pytest.org/en/stable/warnings.html
+[0.811s] [33m=================== [32m2 passed[0m, [33m[1m1 skipped[0m, [33m[1m2 warnings[0m[33m in 0.20s[0m[33m ===================[0m
+[0.871s] Invoked command in '/home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/src/pc_util_monitor' returned '0': PYTEST_ADDOPTS=--tb=short --junit-xml=/home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/pytest.xml --junit-prefix=pc_util_monitor -o cache_dir=/home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/.pytest_cache PYTHONDONTWRITEBYTECODE=1 /usr/bin/python3 -m pytest

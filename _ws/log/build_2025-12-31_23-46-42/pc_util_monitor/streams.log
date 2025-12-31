@@ -1,0 +1,24 @@
+[0.503s] Invoking command in '/home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor': PYTHONPATH=/home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/build --no-deps symlink_data
+[0.635s] running develop
+[0.697s] running egg_info
+[0.697s] creating pc_util_monitor.egg-info
+[0.698s] writing pc_util_monitor.egg-info/PKG-INFO
+[0.698s] writing dependency_links to pc_util_monitor.egg-info/dependency_links.txt
+[0.698s] writing entry points to pc_util_monitor.egg-info/entry_points.txt
+[0.698s] writing requirements to pc_util_monitor.egg-info/requires.txt
+[0.699s] writing top-level names to pc_util_monitor.egg-info/top_level.txt
+[0.699s] writing manifest file 'pc_util_monitor.egg-info/SOURCES.txt'
+[0.700s] reading manifest file 'pc_util_monitor.egg-info/SOURCES.txt'
+[0.700s] writing manifest file 'pc_util_monitor.egg-info/SOURCES.txt'
+[0.701s] running build_ext
+[0.701s] Creating /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/lib/python3.10/site-packages/pc-util-monitor.egg-link (link to .)
+[0.702s] Installing pc_util_monitor script to /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/lib/pc_util_monitor
+[0.702s] 
+[0.703s] Installed /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor
+[0.703s] running symlink_data
+[0.703s] creating /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/share/ament_index
+[0.703s] creating /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/share/ament_index/resource_index
+[0.703s] creating /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/share/ament_index/resource_index/packages
+[0.703s] symbolically linking /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/resource/pc_util_monitor -> /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/share/ament_index/resource_index/packages
+[0.703s] symbolically linking /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/package.xml -> /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/share/pc_util_monitor
+[0.725s] Invoked command in '/home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor' returned '0': PYTHONPATH=/home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/install/pc_util_monitor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kamiko/ros2_setup_scripts/ros2_ws/src/pc_util_monitor/_ws/build/pc_util_monitor/build --no-deps symlink_data
